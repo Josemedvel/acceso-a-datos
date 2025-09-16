@@ -3,7 +3,7 @@ plugins {
     id("application")
 }
 
-application.mainClass = "binario.LecturaBinariaBuffer"
+application.mainClass = "ut1.files.borradoArbolCompleto"
 
 group = "org.example"
 version = "1.0-SNAPSHOT"
