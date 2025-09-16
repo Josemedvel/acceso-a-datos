@@ -3,7 +3,7 @@ plugins {
     id("application")
 }
 
-application.mainClass = "ut1.files.borradoArbolCompleto"
+application.mainClass = "clasepruebas.Cuenta10Binario"
 
 group = "org.example"
 version = "1.0-SNAPSHOT"
