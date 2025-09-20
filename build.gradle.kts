@@ -3,7 +3,7 @@ plugins {
     id("application")
 }
 
-application.mainClass = "clasepruebas.Cuenta10Binario"
+application.mainClass = "ut1.xml.dom.LeerDOM"
 
 group = "org.example"
 version = "1.0-SNAPSHOT"
