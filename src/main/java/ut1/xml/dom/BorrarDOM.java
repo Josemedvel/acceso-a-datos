@@ -7,11 +7,11 @@ import javax.xml.transform.stream.StreamResult;
 import javax.xml.transform.dom.DOMSource;
 
 import org.w3c.dom.*;
-import java.io.File;
+
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class ModificarDOM {
+public class BorrarDOM {
 
     public static void borrarDireccion(int posicion, Document doc){
         NodeList lista = doc.getElementsByTagName("address");
