@@ -3,7 +3,7 @@ plugins {
     id("application")
 }
 
-application.mainClass = "ut1.xml.dom.LeerDOM"
+application.mainClass = "ut1.xml.dom.ModificarDOM"
 
 group = "org.example"
 version = "1.0-SNAPSHOT"
