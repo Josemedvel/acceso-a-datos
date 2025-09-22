@@ -9,7 +9,7 @@ public class Cuenta10Binario {
         DataOutputStream f = null;
         try{
             f = new DataOutputStream(new FileOutputStream("salida_cuenta.bin"));
-            for(int i = 0; i < 10; i++){
+            for(int i = 0; i < 100; i++){
                 f.writeInt(i+1);
             }
         }catch(Exception e){
