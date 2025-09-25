@@ -3,7 +3,7 @@ plugins {
     id("application")
 }
 
-application.mainClass = "clasepruebas.LecturaQuijote"
+application.mainClass = "clasepruebas.PruebaEscritura"
 
 group = "org.example"
 version = "1.0-SNAPSHOT"
