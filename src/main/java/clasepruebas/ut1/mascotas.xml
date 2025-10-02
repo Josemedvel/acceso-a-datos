@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mascotas>
+    <Gatos>
+        <gato codigo-chip="23456234" fecha-ingreso="2023-01-15">
+            <nombre>Lazaro</nombre>
+            <edad>14</edad>
+            <sexo>M</sexo>
+        </gato>
+        <gato codigo-chip="23456235" fecha-ingreso="2023-03-20">
+            <nombre>Mia</nombre>
+            <edad>3</edad>
+            <sexo>H</sexo>
+        </gato>
+        <gato codigo-chip="23456236" fecha-ingreso="2022-11-05">
+            <nombre>Simón</nombre>
+            <edad>5</edad>
+            <sexo>M</sexo>
+        </gato>
+        <gato codigo-chip="23456237" fecha-ingreso="2024-01-09">
+            <nombre>Luna</nombre>
+            <edad>2</edad>
+            <sexo>H</sexo>
+        </gato>
+        <gato codigo-chip="23456238" fecha-ingreso="2023-09-28">
+            <nombre>Tigre</nombre>
+            <edad>4</edad>
+            <sexo>M</sexo>
+        </gato>
+        <gato codigo-chip="23456239" fecha-ingreso="2024-04-01">
+            <nombre>Nina</nombre>
+            <edad>1</edad>
+            <sexo>H</sexo>
+        </gato>
+        <gato codigo-chip="23456240" fecha-ingreso="2022-08-17">
+            <nombre>Tom</nombre>
+            <edad>6</edad>
+            <sexo>M</sexo>
+        </gato>
+        <gato codigo-chip="23456241" fecha-ingreso="2023-07-12">
+            <nombre>Chispa</nombre>
+            <edad>7</edad>
+            <sexo>H</sexo>
+        </gato>
+        <gato codigo-chip="23456242" fecha-ingreso="2024-01-18">
+            <nombre>Felix</nombre>
+            <edad>8</edad>
+            <sexo>M</sexo>
+        </gato>
+        <gato codigo-chip="23456243" fecha-ingreso="2023-10-03">
+            <nombre>Sombra</nombre>
+            <edad>5</edad>
+            <sexo>H</sexo>
+        </gato>
+        <gato codigo-chip="23456244" fecha-ingreso="2022-12-30">
+            <nombre>Oliver</nombre>
+            <edad>9</edad>
+            <sexo>M</sexo>
+        </gato>
+    </Gatos>
+
+    <Perros>
+        <perro codigo-chip="34567201" fecha-ingreso="2024-01-18">
+            <nombre>Rex</nombre>
+            <edad>4</edad>
+            <sexo>M</sexo>
+            <raza>Pastor Alemán</raza>
+        </perro>
+        <perro codigo-chip="34567202" fecha-ingreso="2023-05-14">
+            <nombre>Lola</nombre>
+            <edad>2</edad>
+            <sexo>H</sexo>
+            <raza>Beagle</raza>
+        </perro>
+        <perro codigo-chip="34567203" fecha-ingreso="2022-03-21">
+            <nombre>Max</nombre>
+            <edad>6</edad>
+            <sexo>M</sexo>
+            <raza>Labrador</raza>
+        </perro>
+        <perro codigo-chip="34567204" fecha-ingreso="2023-11-30">
+            <nombre>Bella</nombre>
+            <edad>5</edad>
+            <sexo>H</sexo>
+            <raza>Bulldog</raza>
+        </perro>
+        <perro codigo-chip="34567205" fecha-ingreso="2024-02-25">
+            <nombre>Toby</nombre>
+            <edad>3</edad>
+            <sexo>M</sexo>
+            <raza>Pug</raza>
+        </perro>
+    </Perros>
+
+    <Otros>
+        <conejo codigo-chip="45678201" fecha-ingreso="2022-09-14">
+            <nombre>Pelusa</nombre>
+            <edad>2</edad>
+            <sexo>H</sexo>
+            <raza>Enano Holandés</raza>
+        </conejo>
+        <hamster codigo-chip="45678202" fecha-ingreso="2023-08-10">
+            <nombre>Bolita</nombre>
+            <edad>1</edad>
+            <sexo>M</sexo>
+            <raza>Dorado</raza>
+        </hamster>
+        <loro codigo-chip="45678203" fecha-ingreso="2024-01-18">
+            <nombre>Verde</nombre>
+            <edad>7</edad>
+            <sexo>M</sexo>
+            <especie>Amazonas</especie>
+        </loro>
+        <tortuga codigo-chip="45678204" fecha-ingreso="2020-04-07">
+            <nombre>Manchitas</nombre>
+            <edad>12</edad>
+            <sexo>H</sexo>
+            <especie>Tortuga de Florida</especie>
+        </tortuga>
+    </Otros>
+</mascotas>
