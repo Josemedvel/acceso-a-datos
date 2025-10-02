@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liga temporada="2024-2025" pais="España">
+    <equipo>
+        <nombre>Real Madrid CF</nombre>
+        <goles>68</goles>
+        <posicion>1</posicion>
+    </equipo>
+    <equipo>
+        <nombre>FC Barcelona</nombre>
+        <goles>64</goles>
+        <posicion>2</posicion>
+    </equipo>
+    <equipo>
+        <nombre>Atlético de Madrid</nombre>
+        <goles>58</goles>
+        <posicion>3</posicion>
+    </equipo>
+    <equipo>
+        <nombre>Sevilla FC</nombre>
+        <goles>49</goles>
+        <posicion>4</posicion>
+    </equipo>
+    <equipo>
+        <nombre>Valencia CF</nombre>
+        <goles>46</goles>
+        <posicion>5</posicion>
+    </equipo>
+    <equipo>
+        <nombre>Real Sociedad</nombre>
+        <goles>44</goles>
+        <posicion>6</posicion>
+    </equipo>
+    <equipo>
+        <nombre>Villarreal CF</nombre>
+        <goles>42</goles>
+        <posicion>7</posicion>
+    </equipo>
+    <equipo>
+        <nombre>Athletic Club</nombre>
+        <goles>40</goles>
+        <posicion>8</posicion>
+    </equipo>
+    <equipo>
+        <nombre>Real Betis</nombre>
+        <goles>39</goles>
+        <posicion>9</posicion>
+    </equipo>
+    <equipo>
+        <nombre>CA Osasuna</nombre>
+        <goles>36</goles>
+        <posicion>10</posicion>
+    </equipo>
+    <equipo>
+        <nombre>RCD Espanyol</nombre>
+        <goles>34</goles>
+        <posicion>11</posicion>
+    </equipo>
+    <equipo>
+        <nombre>Rayo Vallecano</nombre>
+        <goles>33</goles>
+        <posicion>12</posicion>
+    </equipo>
+    <equipo>
+        <nombre>Getafe CF</nombre>
+        <goles>31</goles>
+        <posicion>13</posicion>
+    </equipo>
+    <equipo>
+        <nombre>Granada CF</nombre>
+        <goles>29</goles>
+        <posicion>14</posicion>
+    </equipo>
+    <equipo>
+        <nombre>UD Las Palmas</nombre>
+        <goles>28</goles>
+        <posicion>15</posicion>
+    </equipo>
+    <equipo>
+        <nombre>Real Valladolid</nombre>
+        <goles>26</goles>
+        <posicion>16</posicion>
+    </equipo>
+    <equipo>
+        <nombre>Cadiz CF</nombre>
+        <goles>24</goles>
+        <posicion>17</posicion>
+    </equipo>
+    <equipo>
+        <nombre>Almería</nombre>
+        <goles>22</goles>
+        <posicion>18</posicion>
+    </equipo>
+    <equipo>
+        <nombre>Deportivo Alavés</nombre>
+        <goles>20</goles>
+        <posicion>19</posicion>
+    </equipo>
+    <equipo>
+        <nombre>SD Eibar</nombre>
+        <goles>18</goles>
+        <posicion>20</posicion>
+    </equipo>
+</liga>

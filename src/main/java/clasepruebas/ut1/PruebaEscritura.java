@@ -1,4 +1,4 @@
-package clasepruebas;
+package clasepruebas.ut1;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

@@ -41,7 +41,7 @@ public class BorrarDOM {
             doc.getDocumentElement().normalize();
 
             // Borramos la primera dirección
-            borrarDireccion(23, doc);
+            borrarDireccion(1, doc);
 
             // Reescribimos el fichero
             TransformerFactory tf = TransformerFactory.newInstance();
